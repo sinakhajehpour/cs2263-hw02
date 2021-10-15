@@ -1,13 +1,13 @@
 # cs2263-hw02
 This project contains material in javafx, Gson, Json and uses the students info to show it on the two different course and student lists. 
 # Table of Contents
-* [Installation] 
-* [Usage]
-* [Contributing]
-* [Credits]
-* [License]
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Credits](#credits)
+* [License](#license)
 # Installation 
-1.Clone the Repo.
+1. Clone the Repo.
 2. Run gradle assemble 
 3. Copy the file to ehre you eant to be installed
 4. Extract the file.
