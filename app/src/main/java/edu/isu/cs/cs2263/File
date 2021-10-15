@@ -1,0 +1,67 @@
+
+[
+  {
+    "firstName": "student",
+    "lastName": "1",
+    "courseList": [
+      {
+        "number": 1111,
+        "subject": "subject1",
+        "title": "title1"
+      },
+      {
+        "number": 2222,
+        "subject": "subject2",
+        "title": "title2"
+      }
+    ]
+  },
+  {
+    "firstName": "student",
+    "lastName": "2",
+    "courseList": [
+      {
+        "number": 2222,
+        "subject": "subject2",
+        "title": "title2"
+      },
+      {
+        "number": 3333,
+        "subject": "subject3",
+        "title": "title3"
+      }
+    ]
+  },
+  {
+    "firstName": "student",
+    "lastName": "3",
+    "courseList": [
+      {
+        "number": 3333,
+        "subject": "subject3",
+        "title": "title3"
+      },
+      {
+        "number": 4444,
+        "subject": "subject4",
+        "title": "title4"
+      }
+    ]
+  },
+  {
+    "firstName": "student",
+    "lastName": "4",
+    "courseList": [
+      {
+        "number": 4444,
+        "subject": "subject4",
+        "title": "title4"
+      },
+      {
+        "number": 1111,
+        "subject": "subject1",
+        "title": "title1"
+      }
+    ]
+  }
+]
